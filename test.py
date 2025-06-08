@@ -1,6 +1,5 @@
 #!/opt/anaconda3/envs/conda-py310/bin/python3
 
-#testtest
 
 def add_underscores(word):
     new_word = "_"
